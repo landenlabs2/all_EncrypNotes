@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center|top"
+    android:padding="10dp"
+    android:layout_margin="10dp" >
+
+
+    <ImageView
+        android:id="@+id/dlg_icon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_launcher" />
+
+    <TextView
+        android:id="@id/dlg_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/dlg_icon"
+        android:textSize="20sp"
+        android:text="Exit EncrypNotes ?" />
+
+    <include
+        layout="@layout/cancel_ok_inc"
+        android:layout_below="@id/dlg_icon"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp" />
+
+</RelativeLayout>

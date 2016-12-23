@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Password Button style. -->
+	<attr name="passwordButtonStyle" format="reference" />
+	<!-- Password Grid style. -->
+	<attr name="passwordGridStyle" format="reference" />
+	
+
+</resources>

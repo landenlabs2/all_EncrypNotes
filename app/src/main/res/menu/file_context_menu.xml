@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/file_delete"
+        android:icon="@android:drawable/ic_delete"
+        android:showAsAction="ifRoom|withText"
+        android:title="Delete"
+        android:titleCondensed="Delete"/>
+
+    <item
+        android:id="@+id/file_info"
+        android:icon="@android:drawable/ic_dialog_info"
+        android:showAsAction="ifRoom|withText"
+        android:title="Info"
+        android:titleCondensed="Info"/>
+
+    <item
+        android:id="@+id/file_rename"
+        android:icon="@android:drawable/ic_menu_gallery"
+        android:showAsAction="ifRoom|withText"
+        android:title="Rename"
+        android:titleCondensed="Rename"/>
+
+</menu>

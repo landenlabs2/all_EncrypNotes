@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">all Encryp Notes</string>
+    <string name="app_desc">Encrypted Notepad\nBy Dennis Lang</string>
+    <string name="app_title">%1$s    [%2$d char]</string>
+        
+    <string name="menu_about">About…</string>
+    <string name="menu_title_main">Menu</string>
+    <string name="menu_save_as">Save As…</string>
+    <string name="menu_email">Email</string>
+    <string name="menu_save">Save…</string>
+    <string name="menu_open">Open…</string>
+    <string name="menu_new">New document</string>
+    <string name="menu_paranoid">Paranoid…</string>
+    <string name="menu_zoom">Zoom…</string>
+    <string name="menu_global_pwd">Global\nPassword…</string>
+    <string name="menu_file_browser">File browser</string>
+    <string name="menu_edit">Edit…</string>
+    <string name="menu_clear">Clear</string>
+    <string name="menu_cut">Cut</string>
+    <string name="menu_copy">Copy</string>
+    <string name="menu_paste">Paste</string>
+    <string name="menu_invert">Invert colors</string>
+    <string name="menu_info">Info</string>
+    
+    <!-- Android built-in yes/no is Ok/Cancel so add our own. -->
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <string name="default_text">Type here…</string>
+    <string name="new_document">new</string>
+    <string name="no_etxt_files">There are no *%1$s files in "%2$s"</string>
+    <string name="list_etxt_files">*%1$s files in "%2$s"</string>
+
+    <!--
+    <string name="ask_filename">Save File:</string>
+    <string name="open_file"> Open File:</string>
+    -->
+
+    <string name="notify_mydocs">Document will be saved in "%1$s" directory on SD card.</string>
+    <string name="dlg_save_title">Save Encrypted</string>
+    <string name="dlg_open_title">Open Encrypted</string>
+
+    <string name="invalid_filename">Invalid filename!</string>
+    
+    <string name="pwd_enter">Password:</string>
+    <string name="pwd_verify">Verify Password:</string>
+    <string name="pwd_nomatch">Passwords do not match!</string>
+    <string name="pwd_empty">The password cannot be empty!</string>
+    <string name="pwd_pattern">Pattern</string>
+    <string name="pwd_showpat">Show</string>
+    <string name="pwd_hint">Password Hint</string>
+    <string name="hintLbl">Hint:</string>
+    
+    <string name="file_saved">File saved as &quot;%s&quot;</string>
+    <string name="global_pwd_state_text">Enable single global password ?</string>
+    <string name="global_pwd_value_text">Set global password</string>
+    <string name="dlg_prefs_title">Options</string>
+    <string name="show_pattern">Show Pattern</string>
+    <string name="set_global_password">Set Global Password</string>
+    <string name="global_pwd_description">Enter Password Hint and\n Password used as default\nwhen saving documents</string>
+    <string name="global_password">Global Password</string>
+</resources>

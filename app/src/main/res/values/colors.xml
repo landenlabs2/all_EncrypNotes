@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="path_color">#80ff0000</color>
+    <color name="red">#ff0000</color>
+    <color name="green">#00ff00</color>
+    
+    <!-- Round border -->
+    <color name="round_border_color">#808080</color>
+    <color name="round_bg_color">#c0c0c0</color>
+
+    <color name="round_border_color_act">#fff07700</color>
+    <color name="round_bg_color_act">#d0d0d0</color>
+
+</resources>

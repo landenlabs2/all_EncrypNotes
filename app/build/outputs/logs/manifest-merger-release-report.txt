@@ -1,0 +1,99 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/AndroidManifest.xml:2:1-42:12
+	package
+		ADDED from /Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/AndroidManifest.xml:3:5-45
+		INJECTED from /Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/AndroidManifest.xml
+	android:installLocation
+		ADDED from /Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/AndroidManifest.xml:4:5-35
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from /Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/AndroidManifest.xml:12:22-78
+application
+ADDED from /Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/AndroidManifest.xml:14:5-40:19
+MERGED from [com.android.support:support-v4:24.2.0] /Users/ldennis/projects/projects-android/all-EncrypNotes/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.0] /Users/ldennis/projects/projects-android/all-EncrypNotes/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.0] /Users/ldennis/projects/projects-android/all-EncrypNotes/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.0] /Users/ldennis/projects/projects-android/all-EncrypNotes/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.0] /Users/ldennis/projects/projects-android/all-EncrypNotes/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] /Users/ldennis/projects/projects-android/all-EncrypNotes/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from /Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/AndroidManifest.xml:19:9-41
+	android:allowClearUserData
+		ADDED from /Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/AndroidManifest.xml:16:9-42
+	android:allowBackup
+		ADDED from /Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/AndroidManifest.xml:15:9-35
+	android:icon
+		ADDED from /Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/AndroidManifest.xml:18:9-45
+	android:description
+		ADDED from /Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/AndroidManifest.xml:17:9-47
+	android:theme
+		ADDED from /Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/AndroidManifest.xml:20:9-40
+activity#com.landenlabs.all_encrypnotes.EncrypNotes
+ADDED from /Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/AndroidManifest.xml:21:9-39:20
+	android:screenOrientation
+		ADDED from /Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/AndroidManifest.xml:24:13-49
+	android:label
+		ADDED from /Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/AndroidManifest.xml:23:13-45
+	android:name
+		ADDED from /Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/AndroidManifest.xml:22:13-70
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/AndroidManifest.xml:25:13-28:26
+action#android.intent.action.MAIN
+ADDED from /Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from /Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from /Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/AndroidManifest.xml:27:27-74
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from /Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/AndroidManifest.xml:30:13-38:29
+	android:label
+		ADDED from /Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/AndroidManifest.xml:30:28-61
+action#android.intent.action.VIEW
+ADDED from /Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/AndroidManifest.xml:31:17-69
+	android:name
+		ADDED from /Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/AndroidManifest.xml:31:25-66
+category#android.intent.category.DEFAULT
+ADDED from /Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/AndroidManifest.xml:32:17-76
+	android:name
+		ADDED from /Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/AndroidManifest.xml:32:27-73
+category#android.intent.category.BROWSABLE
+ADDED from /Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/AndroidManifest.xml:33:17-78
+	android:name
+		ADDED from /Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/AndroidManifest.xml:33:27-75
+data
+ADDED from /Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/AndroidManifest.xml:35:17-37:65
+	android:host
+		ADDED from /Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/AndroidManifest.xml:36:21-54
+	android:scheme
+		ADDED from /Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/AndroidManifest.xml:35:23-44
+	android:pathPrefix
+		ADDED from /Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/AndroidManifest.xml:37:21-62
+uses-sdk
+INJECTED from /Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:support-v4:24.2.0] /Users/ldennis/projects/projects-android/all-EncrypNotes/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:24.2.0] /Users/ldennis/projects/projects-android/all-EncrypNotes/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:24.2.0] /Users/ldennis/projects/projects-android/all-EncrypNotes/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-media-compat:24.2.0] /Users/ldennis/projects/projects-android/all-EncrypNotes/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:24.2.0] /Users/ldennis/projects/projects-android/all-EncrypNotes/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.0] /Users/ldennis/projects/projects-android/all-EncrypNotes/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:24.2.0] /Users/ldennis/projects/projects-android/all-EncrypNotes/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from /Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/AndroidManifest.xml

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr format="reference" name="passwordButtonStyle"/>
+    <attr format="reference" name="passwordGridStyle"/>
+    <color name="green">#00ff00</color>
+    <color name="path_color">#80ff0000</color>
+    <color name="red">#ff0000</color>
+    <color name="round_bg_color">#c0c0c0</color>
+    <color name="round_bg_color_act">#d0d0d0</color>
+    <color name="round_border_color">#808080</color>
+    <color name="round_border_color_act">#fff07700</color>
+    <declare-styleable name="passwordGrid"><attr format="color|reference" name="drawOn"/><attr format="color|reference" name="drawOff"/><attr format="integer" name="pathWidth"/><attr format="integer" name="pathAlpha"/><attr format="color" name="pathColor"/></declare-styleable>
+    <dimen name="Normal12">12sp</dimen>
+    <dimen name="Normal14">14sp</dimen>
+    <dimen name="Normal16">16sp</dimen>
+    <dimen name="Normal20">20sp</dimen>
+    <item name="cancelBtn" type="id"/>
+    <item name="dlg_desc" type="id"/>
+    <item name="dlg_title" type="id"/>
+    <item name="file_browser" type="id"/>
+    <item name="okBtn" type="id"/>
+    <item name="pwd" type="id"/>
+    <item name="pwd_clear" type="id"/>
+    <item name="pwd_del" type="id"/>
+    <item name="pwd_grid" type="id"/>
+    <item name="pwd_hint_label" type="id"/>
+    <item name="pwd_hint_value" type="id"/>
+    <item name="pwd_holder" type="id"/>
+    <item name="pwd_patternCB" type="id"/>
+    <item name="pwd_showCB" type="id"/>
+    <item name="pwd_verify" type="id"/>
+    <item name="pwd_verifyLB" type="id"/>
+    <item name="pwd_verify_clear" type="id"/>
+    <item name="pwd_verify_del" type="id"/>
+    <item name="pwd_verify_holder" type="id"/>
+    <string name="app_desc">Encrypted Notepad\nBy Dennis Lang</string>
+    <string name="app_name">all Encryp Notes</string>
+    <string name="app_title">%1$s    [%2$d char]</string>
+    <string name="default_text">Type here…</string>
+    <string name="dlg_open_title">Open Encrypted</string>
+    <string name="dlg_prefs_title">Options</string>
+    <string name="dlg_save_title">Save Encrypted</string>
+    <string name="file_saved">File saved as "%s"</string>
+    <string name="global_password">Global Password</string>
+    <string name="global_pwd_description">Enter Password Hint and\n Password used as default\nwhen saving documents</string>
+    <string name="global_pwd_state_text">Enable single global password ?</string>
+    <string name="global_pwd_value_text">Set global password</string>
+    <string name="hintLbl">Hint:</string>
+    <string name="invalid_filename">Invalid filename!</string>
+    <string name="list_etxt_files">*%1$s files in "%2$s"</string>
+    <string name="menu_about">About…</string>
+    <string name="menu_clear">Clear</string>
+    <string name="menu_copy">Copy</string>
+    <string name="menu_cut">Cut</string>
+    <string name="menu_edit">Edit…</string>
+    <string name="menu_email">Email</string>
+    <string name="menu_file_browser">File browser</string>
+    <string name="menu_global_pwd">Global\nPassword…</string>
+    <string name="menu_info">Info</string>
+    <string name="menu_invert">Invert colors</string>
+    <string name="menu_new">New document</string>
+    <string name="menu_open">Open…</string>
+    <string name="menu_paranoid">Paranoid…</string>
+    <string name="menu_paste">Paste</string>
+    <string name="menu_save">Save…</string>
+    <string name="menu_save_as">Save As…</string>
+    <string name="menu_title_main">Menu</string>
+    <string name="menu_zoom">Zoom…</string>
+    <string name="new_document">new</string>
+    <string name="no">No</string>
+    <string name="no_etxt_files">There are no *%1$s files in "%2$s"</string>
+    <string name="notify_mydocs">Document will be saved in "%1$s" directory on SD card.</string>
+    <string name="pwd_empty">The password cannot be empty!</string>
+    <string name="pwd_enter">Password:</string>
+    <string name="pwd_hint">Password Hint</string>
+    <string name="pwd_nomatch">Passwords do not match!</string>
+    <string name="pwd_pattern">Pattern</string>
+    <string name="pwd_showpat">Show</string>
+    <string name="pwd_verify">Verify Password:</string>
+    <string name="set_global_password">Set Global Password</string>
+    <string name="show_pattern">Show Pattern</string>
+    <string name="yes">Yes</string>
+    <style name="AppTheme" parent="@android:style/Theme.Holo.Light.DarkActionBar">
+        <item name="passwordButtonStyle">@style/PasswordButtonStyle</item>
+        <item name="passwordGridStyle">@style/PasswordGridStyle</item>
+    </style>
+    <style name="EditTextStype" parent="@android:style/Widget.EditText">
+        <!--
+        <item name="android:textAppearance">@style/textNormal13</item>
+        -->
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:background">@drawable/round_border</item>
+        <item name="android:padding">4dp</item>
+    </style>
+    <style name="FileListDialogStyle" parent="@android:style/Theme.Dialog">
+        <item name="android:textColor">#FFFF00</item>
+    </style>
+    <style name="MyThemeDark" parent="@android:style/Theme">
+        <item name="android:alertDialogTheme">@android:style/Theme.Dialog</item>
+    </style>
+    <style name="MyThemeLight" parent="@android:style/Theme.Light">
+        <item name="android:alertDialogTheme">@android:style/Theme.Holo.Light.Dialog</item>
+    </style>
+    <style name="OpenDialogStyle" parent="@android:style/Theme.Dialog">
+        <item name="android:textColor">#00FF00</item>
+    </style>
+    <style name="PasswordButtonStyle" parent="@android:style/Widget.Button">
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:focusableInTouchMode">true</item>
+    </style>
+    <style name="PasswordGridStyle" parent="@android:style/Widget.GridView">
+        <!--  Style custom attributes.  -->
+        <item name="drawOff">@drawable/pattern_off</item>
+        <item name="drawOn">@drawable/pattern_on</item>
+        <item name="pathWidth">24</item>
+        <item name="pathAlpha">128</item>
+        <item name="pathColor">@color/green</item>
+
+        <!-- Style standard attributes -->
+        <item name="android:background">@drawable/pattern_bg</item>
+    </style>
+    <style name="SaveDialogStyle" parent="@android:style/Theme.Dialog">
+        <item name="android:textColor">#FFFF00</item>
+    </style>
+    <style name="foo" parent="android:Widget.Holo.Light.ActionBar.Solid">
+        <item name="android:background">#ffc0c0c0</item>
+    </style>
+</resources>

@@ -1,0 +1,1718 @@
+[
+    {
+        "outputFile": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/values/attrs.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 1,
+                        "startOffset": 88,
+                        "endColumn": 55,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/values/attrs.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 1,
+                        "startOffset": 175,
+                        "endColumn": 53,
+                        "endOffset": 227
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 39,
+                    "endOffset": 204
+                },
+                "from": {
+                    "file": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 140,
+                        "endColumn": 39,
+                        "endOffset": 175
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 209,
+                    "endColumn": 46,
+                    "endOffset": 251
+                },
+                "from": {
+                    "file": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 46,
+                        "endOffset": 97
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 256,
+                    "endColumn": 37,
+                    "endOffset": 289
+                },
+                "from": {
+                    "file": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 102,
+                        "endColumn": 37,
+                        "endOffset": 135
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 294,
+                    "endColumn": 48,
+                    "endOffset": 338
+                },
+                "from": {
+                    "file": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 264,
+                        "endColumn": 48,
+                        "endOffset": 308
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 343,
+                    "endColumn": 52,
+                    "endOffset": 391
+                },
+                "from": {
+                    "file": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 373,
+                        "endColumn": 52,
+                        "endOffset": 421
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 396,
+                    "endColumn": 52,
+                    "endOffset": 444
+                },
+                "from": {
+                    "file": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 211,
+                        "endColumn": 52,
+                        "endOffset": 259
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 449,
+                    "endColumn": 58,
+                    "endOffset": 503
+                },
+                "from": {
+                    "file": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 314,
+                        "endColumn": 58,
+                        "endOffset": 368
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 786,
+                    "endColumn": 39,
+                    "endOffset": 821
+                },
+                "from": {
+                    "file": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 175,
+                        "endColumn": 39,
+                        "endOffset": 210
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 826,
+                    "endColumn": 39,
+                    "endOffset": 861
+                },
+                "from": {
+                    "file": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 135,
+                        "endColumn": 39,
+                        "endOffset": 170
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 866,
+                    "endColumn": 39,
+                    "endOffset": 901
+                },
+                "from": {
+                    "file": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 95,
+                        "endColumn": 39,
+                        "endOffset": 130
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 906,
+                    "endColumn": 39,
+                    "endOffset": 941
+                },
+                "from": {
+                    "file": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 39,
+                        "endOffset": 90
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 946,
+                    "endColumn": 38,
+                    "endOffset": 980
+                },
+                "from": {
+                    "file": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/values/ids.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 744,
+                        "endColumn": 39,
+                        "endOffset": 779
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 985,
+                    "endColumn": 37,
+                    "endOffset": 1018
+                },
+                "from": {
+                    "file": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/values/ids.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 882,
+                        "endColumn": 38,
+                        "endOffset": 916
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1023,
+                    "endColumn": 38,
+                    "endOffset": 1057
+                },
+                "from": {
+                    "file": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/values/ids.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 842,
+                        "endColumn": 39,
+                        "endOffset": 877
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1062,
+                    "endColumn": 41,
+                    "endOffset": 1099
+                },
+                "from": {
+                    "file": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/values/ids.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 669,
+                        "endColumn": 42,
+                        "endOffset": 707
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1104,
+                    "endColumn": 34,
+                    "endOffset": 1134
+                },
+                "from": {
+                    "file": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/values/ids.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 784,
+                        "endColumn": 35,
+                        "endOffset": 815
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1139,
+                    "endColumn": 32,
+                    "endOffset": 1167
+                },
+                "from": {
+                    "file": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/values/ids.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 248,
+                        "endColumn": 32,
+                        "endOffset": 276
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1172,
+                    "endColumn": 38,
+                    "endOffset": 1206
+                },
+                "from": {
+                    "file": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/values/ids.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 318,
+                        "endColumn": 38,
+                        "endOffset": 352
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1211,
+                    "endColumn": 36,
+                    "endOffset": 1243
+                },
+                "from": {
+                    "file": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/values/ids.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 281,
+                        "endColumn": 36,
+                        "endOffset": 313
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1248,
+                    "endColumn": 37,
+                    "endOffset": 1281
+                },
+                "from": {
+                    "file": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/values/ids.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 169,
+                        "endColumn": 37,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1286,
+                    "endColumn": 43,
+                    "endOffset": 1325
+                },
+                "from": {
+                    "file": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/values/ids.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 579,
+                        "endColumn": 43,
+                        "endOffset": 618
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1330,
+                    "endColumn": 43,
+                    "endOffset": 1369
+                },
+                "from": {
+                    "file": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/values/ids.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 623,
+                        "endColumn": 43,
+                        "endOffset": 662
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1374,
+                    "endColumn": 39,
+                    "endOffset": 1409
+                },
+                "from": {
+                    "file": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/values/ids.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 208,
+                        "endColumn": 39,
+                        "endOffset": 243
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1414,
+                    "endColumn": 42,
+                    "endOffset": 1452
+                },
+                "from": {
+                    "file": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/values/ids.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 86,
+                        "endColumn": 42,
+                        "endOffset": 124
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1457,
+                    "endColumn": 39,
+                    "endOffset": 1492
+                },
+                "from": {
+                    "file": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/values/ids.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 129,
+                        "endColumn": 39,
+                        "endOffset": 164
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1497,
+                    "endColumn": 39,
+                    "endOffset": 1532
+                },
+                "from": {
+                    "file": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/values/ids.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 448,
+                        "endColumn": 39,
+                        "endOffset": 483
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1537,
+                    "endColumn": 41,
+                    "endOffset": 1574
+                },
+                "from": {
+                    "file": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/values/ids.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 406,
+                        "endColumn": 41,
+                        "endOffset": 443
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1579,
+                    "endColumn": 45,
+                    "endOffset": 1620
+                },
+                "from": {
+                    "file": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/values/ids.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 532,
+                        "endColumn": 45,
+                        "endOffset": 573
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 1625,
+                    "endColumn": 43,
+                    "endOffset": 1664
+                },
+                "from": {
+                    "file": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/values/ids.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 488,
+                        "endColumn": 43,
+                        "endOffset": 527
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1669,
+                    "endColumn": 46,
+                    "endOffset": 1711
+                },
+                "from": {
+                    "file": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/values/ids.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 358,
+                        "endColumn": 47,
+                        "endOffset": 401
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 1716,
+                    "endColumn": 70,
+                    "endOffset": 1782
+                },
+                "from": {
+                    "file": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 70,
+                        "endColumn": 70,
+                        "endOffset": 136
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 1787,
+                    "endColumn": 53,
+                    "endOffset": 1836
+                },
+                "from": {
+                    "file": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 4,
+                        "startOffset": 16,
+                        "endColumn": 53,
+                        "endOffset": 65
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 1841,
+                    "endColumn": 57,
+                    "endOffset": 1894
+                },
+                "from": {
+                    "file": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 141,
+                        "endColumn": 57,
+                        "endOffset": 194
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 1899,
+                    "endColumn": 51,
+                    "endOffset": 1946
+                },
+                "from": {
+                    "file": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1210,
+                        "endColumn": 51,
+                        "endOffset": 1257
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 1951,
+                    "endColumn": 57,
+                    "endOffset": 2004
+                },
+                "from": {
+                    "file": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 1726,
+                        "endColumn": 57,
+                        "endOffset": 1779
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 2009,
+                    "endColumn": 51,
+                    "endOffset": 2056
+                },
+                "from": {
+                    "file": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 2500,
+                        "endColumn": 51,
+                        "endOffset": 2547
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 2061,
+                    "endColumn": 57,
+                    "endOffset": 2114
+                },
+                "from": {
+                    "file": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 1668,
+                        "endColumn": 57,
+                        "endOffset": 1721
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 2119,
+                    "endColumn": 57,
+                    "endOffset": 2172
+                },
+                "from": {
+                    "file": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 4,
+                        "startOffset": 2280,
+                        "endColumn": 67,
+                        "endOffset": 2343
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 2177,
+                    "endColumn": 59,
+                    "endOffset": 2232
+                },
+                "from": {
+                    "file": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 4,
+                        "startOffset": 2799,
+                        "endColumn": 59,
+                        "endOffset": 2854
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 2237,
+                    "endColumn": 124,
+                    "endOffset": 2357
+                },
+                "from": {
+                    "file": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 59,
+                        "startColumn": 4,
+                        "startOffset": 2674,
+                        "endColumn": 124,
+                        "endOffset": 2794
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 2362,
+                    "endColumn": 81,
+                    "endOffset": 2439
+                },
+                "from": {
+                    "file": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 4,
+                        "startOffset": 2348,
+                        "endColumn": 81,
+                        "endOffset": 2425
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 2444,
+                    "endColumn": 69,
+                    "endOffset": 2509
+                },
+                "from": {
+                    "file": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 4,
+                        "startOffset": 2430,
+                        "endColumn": 69,
+                        "endOffset": 2495
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 2514,
+                    "endColumn": 41,
+                    "endOffset": 2551
+                },
+                "from": {
+                    "file": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 4,
+                        "startOffset": 2233,
+                        "endColumn": 41,
+                        "endOffset": 2270
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 2556,
+                    "endColumn": 62,
+                    "endOffset": 2614
+                },
+                "from": {
+                    "file": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 1785,
+                        "endColumn": 62,
+                        "endOffset": 1843
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 2619,
+                    "endColumn": 65,
+                    "endOffset": 2680
+                },
+                "from": {
+                    "file": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1384,
+                        "endColumn": 65,
+                        "endOffset": 1445
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 2685,
+                    "endColumn": 45,
+                    "endOffset": 2726
+                },
+                "from": {
+                    "file": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 208,
+                        "endColumn": 45,
+                        "endOffset": 249
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 2731,
+                    "endColumn": 44,
+                    "endOffset": 2771
+                },
+                "from": {
+                    "file": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 797,
+                        "endColumn": 44,
+                        "endOffset": 837
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 2776,
+                    "endColumn": 42,
+                    "endOffset": 2814
+                },
+                "from": {
+                    "file": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 883,
+                        "endColumn": 42,
+                        "endOffset": 921
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 2819,
+                    "endColumn": 40,
+                    "endOffset": 2855
+                },
+                "from": {
+                    "file": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 842,
+                        "endColumn": 40,
+                        "endOffset": 878
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 2860,
+                    "endColumn": 43,
+                    "endOffset": 2899
+                },
+                "from": {
+                    "file": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 753,
+                        "endColumn": 43,
+                        "endOffset": 792
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 2904,
+                    "endColumn": 44,
+                    "endOffset": 2944
+                },
+                "from": {
+                    "file": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 353,
+                        "endColumn": 44,
+                        "endOffset": 393
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 2949,
+                    "endColumn": 58,
+                    "endOffset": 3003
+                },
+                "from": {
+                    "file": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 694,
+                        "endColumn": 58,
+                        "endOffset": 748
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 3008,
+                    "endColumn": 61,
+                    "endOffset": 3065
+                },
+                "from": {
+                    "file": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 632,
+                        "endColumn": 61,
+                        "endOffset": 689
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 3070,
+                    "endColumn": 42,
+                    "endOffset": 3108
+                },
+                "from": {
+                    "file": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1025,
+                        "endColumn": 42,
+                        "endOffset": 1063
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 3113,
+                    "endColumn": 53,
+                    "endOffset": 3162
+                },
+                "from": {
+                    "file": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 971,
+                        "endColumn": 53,
+                        "endOffset": 1020
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 3167,
+                    "endColumn": 49,
+                    "endOffset": 3212
+                },
+                "from": {
+                    "file": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 486,
+                        "endColumn": 49,
+                        "endOffset": 531
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 3217,
+                    "endColumn": 43,
+                    "endOffset": 3256
+                },
+                "from": {
+                    "file": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 442,
+                        "endColumn": 43,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 3261,
+                    "endColumn": 51,
+                    "endOffset": 3308
+                },
+                "from": {
+                    "file": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 536,
+                        "endColumn": 51,
+                        "endOffset": 583
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 3313,
+                    "endColumn": 44,
+                    "endOffset": 3353
+                },
+                "from": {
+                    "file": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 926,
+                        "endColumn": 44,
+                        "endOffset": 966
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 3358,
+                    "endColumn": 43,
+                    "endOffset": 3397
+                },
+                "from": {
+                    "file": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 398,
+                        "endColumn": 43,
+                        "endOffset": 437
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 3402,
+                    "endColumn": 49,
+                    "endOffset": 3447
+                },
+                "from": {
+                    "file": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 303,
+                        "endColumn": 49,
+                        "endOffset": 348
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 3452,
+                    "endColumn": 48,
+                    "endOffset": 3496
+                },
+                "from": {
+                    "file": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 254,
+                        "endColumn": 48,
+                        "endOffset": 298
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 3501,
+                    "endColumn": 43,
+                    "endOffset": 3540
+                },
+                "from": {
+                    "file": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 588,
+                        "endColumn": 43,
+                        "endOffset": 627
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 3545,
+                    "endColumn": 44,
+                    "endOffset": 3585
+                },
+                "from": {
+                    "file": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1262,
+                        "endColumn": 44,
+                        "endOffset": 1302
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 3590,
+                    "endColumn": 33,
+                    "endOffset": 3619
+                },
+                "from": {
+                    "file": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1175,
+                        "endColumn": 33,
+                        "endOffset": 1204
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 3624,
+                    "endColumn": 76,
+                    "endOffset": 3696
+                },
+                "from": {
+                    "file": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1307,
+                        "endColumn": 76,
+                        "endOffset": 1379
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 3701,
+                    "endColumn": 96,
+                    "endOffset": 3793
+                },
+                "from": {
+                    "file": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 1571,
+                        "endColumn": 96,
+                        "endOffset": 1663
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 3798,
+                    "endColumn": 67,
+                    "endOffset": 3861
+                },
+                "from": {
+                    "file": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 2021,
+                        "endColumn": 67,
+                        "endOffset": 2084
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 3866,
+                    "endColumn": 47,
+                    "endOffset": 3909
+                },
+                "from": {
+                    "file": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 1853,
+                        "endColumn": 47,
+                        "endOffset": 1896
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 3914,
+                    "endColumn": 50,
+                    "endOffset": 3960
+                },
+                "from": {
+                    "file": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 2182,
+                        "endColumn": 50,
+                        "endOffset": 2228
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 3965,
+                    "endColumn": 63,
+                    "endOffset": 4024
+                },
+                "from": {
+                    "file": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 1957,
+                        "endColumn": 63,
+                        "endOffset": 2016
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 4029,
+                    "endColumn": 47,
+                    "endOffset": 4072
+                },
+                "from": {
+                    "file": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 2089,
+                        "endColumn": 47,
+                        "endOffset": 2132
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 4077,
+                    "endColumn": 44,
+                    "endOffset": 4117
+                },
+                "from": {
+                    "file": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 2137,
+                        "endColumn": 44,
+                        "endOffset": 2177
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 4122,
+                    "endColumn": 55,
+                    "endOffset": 4173
+                },
+                "from": {
+                    "file": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 1901,
+                        "endColumn": 55,
+                        "endOffset": 1952
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 4178,
+                    "endColumn": 67,
+                    "endOffset": 4241
+                },
+                "from": {
+                    "file": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 2606,
+                        "endColumn": 67,
+                        "endOffset": 2669
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 4246,
+                    "endColumn": 53,
+                    "endOffset": 4295
+                },
+                "from": {
+                    "file": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 4,
+                        "startOffset": 2552,
+                        "endColumn": 53,
+                        "endOffset": 2601
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 4300,
+                    "endColumn": 35,
+                    "endOffset": 4331
+                },
+                "from": {
+                    "file": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1139,
+                        "endColumn": 35,
+                        "endOffset": 1170
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 4336,
+                    "endLine": 85,
+                    "endColumn": 12,
+                    "endOffset": 4573
+                },
+                "from": {
+                    "file": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 925,
+                        "endLine": 26,
+                        "endColumn": 12,
+                        "endOffset": 1162
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 4578,
+                    "endLine": 93,
+                    "endColumn": 12,
+                    "endOffset": 4940
+                },
+                "from": {
+                    "file": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 73,
+                        "startColumn": 4,
+                        "startOffset": 2943,
+                        "endLine": 80,
+                        "endColumn": 12,
+                        "endOffset": 3305
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 4945,
+                    "endLine": 96,
+                    "endColumn": 12,
+                    "endOffset": 5083
+                },
+                "from": {
+                    "file": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1448,
+                        "endLine": 38,
+                        "endColumn": 12,
+                        "endOffset": 1586
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 5088,
+                    "endLine": 99,
+                    "endColumn": 12,
+                    "endOffset": 5238
+                },
+                "from": {
+                    "file": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 76,
+                        "endLine": 4,
+                        "endColumn": 12,
+                        "endOffset": 226
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 100,
+                    "startColumn": 4,
+                    "startOffset": 5243,
+                    "endLine": 102,
+                    "endColumn": 12,
+                    "endOffset": 5411
+                },
+                "from": {
+                    "file": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 232,
+                        "endLine": 8,
+                        "endColumn": 12,
+                        "endOffset": 400
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 103,
+                    "startColumn": 4,
+                    "startOffset": 5416,
+                    "endLine": 105,
+                    "endColumn": 12,
+                    "endOffset": 5550
+                },
+                "from": {
+                    "file": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1168,
+                        "endLine": 30,
+                        "endColumn": 12,
+                        "endOffset": 1302
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 106,
+                    "startColumn": 4,
+                    "startOffset": 5555,
+                    "endLine": 111,
+                    "endColumn": 12,
+                    "endOffset": 5870
+                },
+                "from": {
+                    "file": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 1592,
+                        "endLine": 45,
+                        "endColumn": 12,
+                        "endOffset": 1907
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 112,
+                    "startColumn": 4,
+                    "startOffset": 5875,
+                    "endLine": 122,
+                    "endColumn": 12,
+                    "endOffset": 6364
+                },
+                "from": {
+                    "file": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 4,
+                        "startOffset": 2303,
+                        "endLine": 67,
+                        "endColumn": 12,
+                        "endOffset": 2792
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 123,
+                    "startColumn": 4,
+                    "startOffset": 6369,
+                    "endLine": 125,
+                    "endColumn": 12,
+                    "endOffset": 6503
+                },
+                "from": {
+                    "file": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1308,
+                        "endLine": 34,
+                        "endColumn": 12,
+                        "endOffset": 1442
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 126,
+                    "startColumn": 4,
+                    "startOffset": 6508,
+                    "endLine": 128,
+                    "endColumn": 12,
+                    "endOffset": 6647
+                },
+                "from": {
+                    "file": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 69,
+                        "startColumn": 4,
+                        "startOffset": 2798,
+                        "endLine": 71,
+                        "endColumn": 12,
+                        "endOffset": 2937
+                    }
+                }
+            }
+        ]
+    }
+]

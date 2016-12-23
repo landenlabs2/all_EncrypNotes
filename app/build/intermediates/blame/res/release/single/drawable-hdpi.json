@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/build/intermediates/res/merged/release/drawable-hdpi/logo_bot.png",
+        "source": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/drawable-hdpi/logo_bot.png"
+    },
+    {
+        "merged": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/build/intermediates/res/merged/release/drawable-hdpi/ic_menu_info.png",
+        "source": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/drawable-hdpi/ic_menu_info.png"
+    },
+    {
+        "merged": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/build/intermediates/res/merged/release/drawable-hdpi/paper_lite.png",
+        "source": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/drawable-hdpi/paper_lite.png"
+    },
+    {
+        "merged": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/build/intermediates/res/merged/release/drawable-hdpi/ic_menu_refresh.png",
+        "source": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/drawable-hdpi/ic_menu_refresh.png"
+    },
+    {
+        "merged": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/build/intermediates/res/merged/release/drawable-hdpi/ic_menu_login.png",
+        "source": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/drawable-hdpi/ic_menu_login.png"
+    },
+    {
+        "merged": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/build/intermediates/res/merged/release/drawable-hdpi/menu_bg.png",
+        "source": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/drawable-hdpi/menu_bg.png"
+    },
+    {
+        "merged": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/build/intermediates/res/merged/release/drawable-hdpi/logo_top.png",
+        "source": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/drawable-hdpi/logo_top.png"
+    },
+    {
+        "merged": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/build/intermediates/res/merged/release/drawable-hdpi/pattern_off.png",
+        "source": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/drawable-hdpi/pattern_off.png"
+    },
+    {
+        "merged": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/build/intermediates/res/merged/release/drawable-hdpi/ic_launcher.png",
+        "source": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/build/intermediates/res/merged/release/drawable-hdpi/ic_menu_paste.png",
+        "source": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/drawable-hdpi/ic_menu_paste.png"
+    },
+    {
+        "merged": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/build/intermediates/res/merged/release/drawable-hdpi/ic_menu_copy.png",
+        "source": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/drawable-hdpi/ic_menu_copy.png"
+    },
+    {
+        "merged": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/build/intermediates/res/merged/release/drawable-hdpi/ic_menu_compose.png",
+        "source": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/drawable-hdpi/ic_menu_compose.png"
+    },
+    {
+        "merged": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/build/intermediates/res/merged/release/drawable-hdpi/ic_more.png",
+        "source": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/drawable-hdpi/ic_more.png"
+    },
+    {
+        "merged": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/build/intermediates/res/merged/release/drawable-hdpi/about_bg.png",
+        "source": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/drawable-hdpi/about_bg.png"
+    },
+    {
+        "merged": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/build/intermediates/res/merged/release/drawable-hdpi/ic_menu_cut.png",
+        "source": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/drawable-hdpi/ic_menu_cut.png"
+    },
+    {
+        "merged": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/build/intermediates/res/merged/release/drawable-hdpi/pattern_bg.png",
+        "source": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/drawable-hdpi/pattern_bg.png"
+    },
+    {
+        "merged": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/build/intermediates/res/merged/release/drawable-hdpi/paper_dark.png",
+        "source": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/drawable-hdpi/paper_dark.png"
+    },
+    {
+        "merged": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/build/intermediates/res/merged/release/drawable-hdpi/ic_menu_info_details.png",
+        "source": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/drawable-hdpi/ic_menu_info_details.png"
+    },
+    {
+        "merged": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/build/intermediates/res/merged/release/drawable-hdpi/input_delete.png",
+        "source": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/drawable-hdpi/input_delete.png"
+    },
+    {
+        "merged": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/build/intermediates/res/merged/release/drawable-hdpi/pattern_on.png",
+        "source": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/drawable-hdpi/pattern_on.png"
+    },
+    {
+        "merged": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/build/intermediates/res/merged/release/drawable-hdpi/logo.png",
+        "source": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/drawable-hdpi/logo.png"
+    }
+]

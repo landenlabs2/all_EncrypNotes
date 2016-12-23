@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:minWidth="300dp"
+    android:orientation="vertical"
+    android:padding="5dp" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+<!--
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/open_file" />
+-->
+        <TextView
+            android:id="@id/pwd_hint_label"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:text="@string/hintLbl" />
+
+        <EditText
+            android:id="@id/pwd_hint_value"
+            style="@android:style/Widget.TextView"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="4dp"
+            android:layout_weight="1"
+            android:background="@android:color/transparent"
+            android:editable="false"
+            android:inputType="text"
+            android:focusable="false"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/Normal16" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <Button
+            android:id="@id/file_browser"
+            android:layout_width="50dp"
+            android:layout_height="30dp"
+            android:background="@drawable/round_border"
+            android:text="..." />
+
+        <EditText
+            android:id="@+id/open_filename"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/round_border"
+            android:nextFocusDown="@id/pwd"
+            android:hint="open filename"
+            android:imeOptions="actionNext"
+            android:inputType="text"
+            android:padding="4dp" />
+
+    </LinearLayout>
+
+    <include layout="@layout/password_inc" />
+
+    <include
+        layout="@layout/cancel_ok_inc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp" />
+
+</LinearLayout>

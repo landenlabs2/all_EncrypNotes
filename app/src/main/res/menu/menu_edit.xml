@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:icon="@android:drawable/ic_menu_edit"
+        android:showAsAction="ifRoom"
+        android:title="@string/menu_edit">
+        <menu>
+            <item
+                android:id="@+id/menu_zoom"
+                android:icon="@android:drawable/ic_menu_zoom"
+                android:title="@string/menu_zoom"/>
+      		<item
+                android:id="@+id/menu_copy"
+                android:icon="@drawable/ic_menu_copy"
+                android:title="@string/menu_copy"/>
+      		 <item
+                android:id="@+id/menu_paste"
+                android:icon="@drawable/ic_menu_paste"
+                android:title="@string/menu_paste"/>
+            <item
+                android:id="@+id/menu_cut"
+                android:icon="@drawable/ic_menu_cut"
+                android:title="@string/menu_cut"/>
+            <item
+                android:id="@+id/menu_clear"
+                android:icon="@drawable/ic_menu_cut"
+                android:title="@string/menu_clear"/>
+
+            <item
+                android:id="@+id/menu_info"
+                android:icon="@drawable/ic_menu_info_details"
+                android:title="@string/menu_info"/>
+           
+        </menu>
+    </item>
+    
+    <item
+        android:id="@+id/menu_more"
+        android:icon="@drawable/ic_more"
+        android:title="@string/menu_title_main"
+        android:showAsAction="ifRoom">
+        <menu>
+            <item
+                android:id="@+id/menu_new"
+                android:icon="@drawable/ic_menu_compose"
+                android:title="@string/menu_new"/>
+            <item
+                android:id="@+id/menu_open"
+                android:icon="@android:drawable/sym_contact_card"
+                android:title="@string/menu_open"/>
+            <item
+                android:id="@+id/menu_save"
+                android:icon="@android:drawable/ic_menu_save"
+                android:title="@string/menu_save"/>
+            <item
+                android:id="@+id/menu_save_as"
+                android:icon="@android:drawable/ic_menu_save"
+                android:title="@string/menu_save_as"/>
+
+            <item
+                android:id="@+id/menu_email"
+                android:icon="@android:drawable/ic_dialog_email"
+                android:title="@string/menu_email"/>
+
+            <item
+                android:id="@+id/menu_about"
+                android:icon="@drawable/ic_menu_info_details"
+                android:title="@string/menu_about"/>
+          	<item
+                android:id="@+id/menu_file_browser"
+                android:icon="@android:drawable/ic_menu_gallery"
+                android:title="@string/menu_file_browser"/>
+
+            <group android:checkableBehavior="all" >
+                <item
+                    android:id="@+id/menu_paranoid"
+                    android:icon="@android:drawable/stat_sys_warning"
+                    android:title="@string/menu_paranoid"/>
+                <item
+                    android:id="@+id/menu_global_pwd"
+                    android:icon="@drawable/ic_menu_login"
+                    android:visible="true"
+                    android:title="@string/menu_global_pwd"/>
+                <item
+                    android:id="@+id/menu_invert"
+                    android:icon="@drawable/ic_menu_refresh"
+                    android:title="@string/menu_invert"/>
+            </group>
+        </menu>
+    </item>
+
+</menu>

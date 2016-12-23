@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/dafp_layout_root"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="5dp" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+<!--
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/ask_filename" />
+-->
+        <TextView
+            android:id="@id/pwd_hint_label"
+            android:layout_marginLeft="5dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/hintLbl" />
+
+        <EditText
+            android:id="@id/pwd_hint_value"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:nextFocusForward="@+id/save_filename"
+            android:hint="@string/pwd_hint"
+            android:nextFocusDown="@id/file_browser"
+            android:inputType="text"
+            android:maxLines="1" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+        <Button
+            android:id="@id/file_browser"
+            android:layout_width="50dp"
+            android:layout_height="30dp"
+            android:nextFocusForward="@id/save_filename"
+            android:background="@drawable/round_border_sel"
+            android:text="..." />
+        <EditText
+            android:id="@id/save_filename"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/round_border_sel"
+            android:nextFocusForward="@id/pwd"
+            android:inputType="text"
+            android:padding="4dp" />
+    </LinearLayout>
+
+    <include layout="@layout/password_inc" />
+
+    <TextView
+        android:id="@+id/save_desc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginLeft="3dp"
+        android:layout_marginRight="3dp"
+        android:text="@string/notify_mydocs"
+        android:visibility="gone" />
+
+    <include
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        layout="@layout/cancel_ok_inc" />
+
+</LinearLayout>

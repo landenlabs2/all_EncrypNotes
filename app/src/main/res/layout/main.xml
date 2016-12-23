@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <!-- Scroll view prevents EditText soft keyboard from hiding action bar -->
+
+    <ScrollView
+        android:id="@+id/main_scroll"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:fillViewport="true" >
+
+        <EditText
+            android:id="@+id/main_text"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:background="@drawable/paper_lite"
+            android:gravity="top|left"
+            android:hint="@string/default_text"
+            android:textCursorDrawable="@null"
+            android:typeface="monospace" >
+        </EditText>
+    </ScrollView>
+
+    <!-- Splash screen -->
+    <ImageView
+        android:id="@+id/overlay_logo"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:alpha="0"
+        android:src="@drawable/logo" />
+    
+    <TextView
+        android:id="@+id/overlay_text"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:alpha="0"
+        android:gravity="bottom|center_horizontal"
+        android:text="@string/app_desc"
+        android:textSize="30sp" />
+
+</RelativeLayout>

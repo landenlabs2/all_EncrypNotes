@@ -1,0 +1,4 @@
+#Thu Dec 22 21:31:33 EST 2016
+base.0=/Users/ldennis/projects/projects-android/all-EncrypNotes/app/build/intermediates/transforms/dex/release/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/ldennis/projects/projects-android/all-EncrypNotes/app/build/intermediates/transforms/dex/release/folders/1000/1f/main/classes.dex

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/build/intermediates/res/merged/release/menu/menu_edit.xml",
+        "source": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/menu/menu_edit.xml"
+    },
+    {
+        "merged": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/build/intermediates/res/merged/release/menu/file_context_menu.xml",
+        "source": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/menu/file_context_menu.xml"
+    }
+]

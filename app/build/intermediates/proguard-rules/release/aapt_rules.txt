@@ -1,0 +1,17 @@
+# view AndroidManifest.xml #generated:27
+-keep class com.landenlabs.all_encrypnotes.EncrypNotes { <init>(...); }
+
+# view res/layout/password_inc.xml #generated:49
+# view res/layout/password_inc.xml #generated:51
+# view res/layout/password_inc.xml #generated:55
+# view res/layout/password_inc.xml #generated:57
+# view res/layout/password_inc.xml #generated:62
+# view res/layout/password_inc.xml #generated:66
+# view res/layout/password_inc.xml #generated:71
+# view res/layout/password_inc.xml #generated:73
+# view res/layout/password_inc.xml #generated:77
+-keep class com.landenlabs.password.PasswordButton { <init>(...); }
+
+# view res/layout/password_inc.xml #generated:40
+-keep class com.landenlabs.password.PasswordGrid { <init>(...); }
+

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/build/intermediates/res/merged/release/drawable/round_border.xml",
+        "source": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/drawable/round_border.xml"
+    },
+    {
+        "merged": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/build/intermediates/res/merged/release/drawable/round_border_sel.xml",
+        "source": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/drawable/round_border_sel.xml"
+    },
+    {
+        "merged": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/build/intermediates/res/merged/release/drawable/menu_selector.xml",
+        "source": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/drawable/menu_selector.xml"
+    },
+    {
+        "merged": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/build/intermediates/res/merged/release/drawable/round_border_act.xml",
+        "source": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/drawable/round_border_act.xml"
+    },
+    {
+        "merged": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/build/intermediates/res/merged/release/drawable/paper_dark_tiles.xml",
+        "source": "/Users/ldennis/projects/projects-android/all-EncrypNotes/app/src/main/res/drawable/paper_dark_tiles.xml"
+    }
+]

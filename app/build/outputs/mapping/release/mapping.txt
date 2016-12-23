@@ -1,0 +1,615 @@
+android.support.annotation.Keep -> android.support.annotation.Keep:
+android.support.v4.content.ContextCompat -> android.support.a.a.a:
+    java.lang.Object sLock -> a
+    int checkSelfPermission(android.content.Context,java.lang.String) -> a
+    void <clinit>() -> <clinit>
+com.landenlabs.all_encrypnotes.Doc -> com.landenlabs.all_encrypnotes.a:
+    byte[] SIGNATURE -> a
+    byte m_verFormat -> c
+    byte m_verMinor -> d
+    java.lang.String m_hint -> e
+    java.lang.String m_text -> f
+    com.landenlabs.all_encrypnotes.Doc$DocMetadata m_docMeta -> g
+    boolean $assertionsDisabled -> b
+    void <init>(java.lang.String,com.landenlabs.all_encrypnotes.Doc$DocMetadata) -> <init>
+    void <init>() -> <init>
+    java.lang.String getHint() -> a
+    java.lang.String getVersion() -> b
+    java.lang.String getInfoStr(com.landenlabs.all_encrypnotes.Doc$DocMetadata,java.text.DateFormat) -> a
+    boolean doSave(java.io.File,java.lang.String) -> a
+    boolean doOpen(java.io.File,java.lang.String) -> b
+    java.lang.String getText() -> c
+    com.landenlabs.all_encrypnotes.Doc$DocMetadata getDocMetadata() -> d
+    javax.crypto.Cipher getCipher(int,byte[],byte[]) -> a
+    void <clinit>() -> <clinit>
+com.landenlabs.all_encrypnotes.Doc$DocException -> com.landenlabs.all_encrypnotes.a$a:
+    long serialVersionUID -> serialVersionUID
+    void <init>() -> <init>
+    void <init>(java.lang.String) -> <init>
+com.landenlabs.all_encrypnotes.Doc$DocMetadata -> com.landenlabs.all_encrypnotes.a$b:
+    long serialVersionUID -> serialVersionUID
+    java.util.ArrayList saveHistory -> a
+    boolean modified -> b
+    java.lang.String filename -> c
+    java.lang.String hint -> d
+    int caretPosition -> e
+    byte[] key -> f
+    void <init>() -> <init>
+    void saveMetadata(java.io.DataOutputStream) -> a
+    void loadMetadata(java.io.DataInputStream,int) -> a
+    void copyTo(com.landenlabs.all_encrypnotes.Doc$DocMetadata) -> a
+    void setKey(java.lang.String) -> a
+com.landenlabs.all_encrypnotes.Doc$DocPasswordException -> com.landenlabs.all_encrypnotes.a$c:
+    long serialVersionUID -> serialVersionUID
+    void <init>() -> <init>
+    void <init>(java.lang.String) -> <init>
+com.landenlabs.all_encrypnotes.Doc$SaveMetadata -> com.landenlabs.all_encrypnotes.a$d:
+    long serialVersionUID -> serialVersionUID
+    long timestamp -> a
+    java.lang.String username -> b
+    void <init>(long,java.lang.String) -> <init>
+com.landenlabs.all_encrypnotes.DocFileDlg -> com.landenlabs.all_encrypnotes.b:
+    java.text.DateFormat m_dateFormat -> a
+    java.io.File STORAGE_DIR -> b
+    com.landenlabs.all_encrypnotes.Doc$DocMetadata m_docMetadata -> c
+    android.app.Activity m_context -> d
+    com.landenlabs.all_encrypnotes.UiPasswordManager m_managePwd -> e
+    com.landenlabs.all_encrypnotes.SimpleFileDialog m_fileOpenDialog -> f
+    void <init>(android.app.Activity) -> <init>
+    boolean ensureDocDir() -> a
+    java.io.File getDir() -> b
+    java.lang.String getName() -> c
+    boolean isModified() -> d
+    void setModified(boolean) -> a
+    boolean canSave() -> e
+    void Clear() -> f
+    void saveInstanceState(android.os.Bundle,android.widget.EditText) -> a
+    void restoreInstanceState(android.os.Bundle,android.widget.EditText) -> b
+    void showInfo() -> g
+    void showLoad(com.landenlabs.all_encrypnotes.EncrypPrefs,android.widget.EditText,com.landenlabs.all_encrypnotes.SendMsg) -> a
+    void setHint(java.lang.String) -> b
+    void loadSelectedFile(com.landenlabs.all_encrypnotes.EncrypPrefs,java.lang.String,android.widget.EditText,com.landenlabs.all_encrypnotes.SendMsg) -> a
+    void loadFile(java.lang.String,java.lang.String,android.widget.EditText,com.landenlabs.all_encrypnotes.SendMsg) -> a
+    java.lang.String getHint(java.lang.String) -> a
+    void showSaveAs(com.landenlabs.all_encrypnotes.EncrypPrefs,int,int,android.widget.EditText,com.landenlabs.all_encrypnotes.SendMsg) -> a
+    void setFilename(android.widget.EditText,java.lang.String) -> a
+    void setFilenameColor(android.widget.EditText) -> a
+    boolean saveFile(java.lang.String,java.lang.String,java.lang.String,android.widget.EditText,com.landenlabs.all_encrypnotes.SendMsg) -> a
+    boolean saveOnBackground(java.lang.String,java.lang.String,java.lang.String,android.widget.EditText) -> a
+    void access$000(com.landenlabs.all_encrypnotes.DocFileDlg,com.landenlabs.all_encrypnotes.EncrypPrefs,java.lang.String,android.widget.EditText,com.landenlabs.all_encrypnotes.SendMsg) -> a
+    android.app.Activity access$100(com.landenlabs.all_encrypnotes.DocFileDlg) -> a
+    com.landenlabs.all_encrypnotes.SimpleFileDialog access$202(com.landenlabs.all_encrypnotes.DocFileDlg,com.landenlabs.all_encrypnotes.SimpleFileDialog) -> a
+    com.landenlabs.all_encrypnotes.SimpleFileDialog access$200(com.landenlabs.all_encrypnotes.DocFileDlg) -> b
+    java.io.File access$300() -> h
+    void access$400(com.landenlabs.all_encrypnotes.DocFileDlg,java.lang.String) -> a
+    void access$500(com.landenlabs.all_encrypnotes.DocFileDlg,java.lang.String,java.lang.String,android.widget.EditText,com.landenlabs.all_encrypnotes.SendMsg) -> a
+    java.text.DateFormat access$600() -> i
+    com.landenlabs.all_encrypnotes.Doc$DocMetadata access$700(com.landenlabs.all_encrypnotes.DocFileDlg) -> c
+    com.landenlabs.all_encrypnotes.UiPasswordManager access$800(com.landenlabs.all_encrypnotes.DocFileDlg) -> d
+    void <clinit>() -> <clinit>
+com.landenlabs.all_encrypnotes.DocFileDlg$1 -> com.landenlabs.all_encrypnotes.b$1:
+    com.landenlabs.all_encrypnotes.DocFileDlg this$0 -> a
+    void <init>(com.landenlabs.all_encrypnotes.DocFileDlg) -> <init>
+    boolean accept(java.io.File,java.lang.String) -> accept
+com.landenlabs.all_encrypnotes.DocFileDlg$10 -> com.landenlabs.all_encrypnotes.b$2:
+    android.widget.EditText val$filenameETxt -> a
+    com.landenlabs.all_encrypnotes.DocFileDlg this$0 -> b
+    void <init>(com.landenlabs.all_encrypnotes.DocFileDlg,android.widget.EditText) -> <init>
+    void onClick(android.view.View) -> onClick
+com.landenlabs.all_encrypnotes.DocFileDlg$10$1 -> com.landenlabs.all_encrypnotes.b$2$1:
+    com.landenlabs.all_encrypnotes.DocFileDlg$10 this$1 -> a
+    void <init>(com.landenlabs.all_encrypnotes.DocFileDlg$10) -> <init>
+    void onChosenDir(java.lang.String) -> a
+com.landenlabs.all_encrypnotes.DocFileDlg$11 -> com.landenlabs.all_encrypnotes.b$3:
+    android.widget.EditText val$filenameETxt -> a
+    com.landenlabs.all_encrypnotes.SendMsg val$sendMsg -> b
+    android.app.Dialog val$dlg -> c
+    android.widget.EditText val$docText -> d
+    int val$saveMsgNum -> e
+    com.landenlabs.all_encrypnotes.DocFileDlg this$0 -> f
+    void <init>(com.landenlabs.all_encrypnotes.DocFileDlg,android.widget.EditText,com.landenlabs.all_encrypnotes.SendMsg,android.app.Dialog,android.widget.EditText,int) -> <init>
+    void onClick(android.view.View) -> onClick
+com.landenlabs.all_encrypnotes.DocFileDlg$12 -> com.landenlabs.all_encrypnotes.b$4:
+    android.app.Dialog val$dlg -> a
+    com.landenlabs.all_encrypnotes.DocFileDlg this$0 -> b
+    void <init>(com.landenlabs.all_encrypnotes.DocFileDlg,android.app.Dialog) -> <init>
+    void onClick(android.view.View) -> onClick
+com.landenlabs.all_encrypnotes.DocFileDlg$2 -> com.landenlabs.all_encrypnotes.b$5:
+    com.landenlabs.all_encrypnotes.EncrypPrefs val$prefs -> a
+    com.landenlabs.all_encrypnotes.FileListAdapter val$fileListAdapter -> b
+    android.widget.EditText val$docText -> c
+    com.landenlabs.all_encrypnotes.SendMsg val$sendMsg -> d
+    com.landenlabs.all_encrypnotes.DocFileDlg this$0 -> e
+    void <init>(com.landenlabs.all_encrypnotes.DocFileDlg,com.landenlabs.all_encrypnotes.EncrypPrefs,com.landenlabs.all_encrypnotes.FileListAdapter,android.widget.EditText,com.landenlabs.all_encrypnotes.SendMsg) -> <init>
+    void onClick(android.content.DialogInterface,int) -> onClick
+com.landenlabs.all_encrypnotes.DocFileDlg$3 -> com.landenlabs.all_encrypnotes.b$6:
+    com.landenlabs.all_encrypnotes.FileListAdapter val$fileListAdapter -> a
+    com.landenlabs.all_encrypnotes.DocFileDlg this$0 -> b
+    void <init>(com.landenlabs.all_encrypnotes.DocFileDlg,com.landenlabs.all_encrypnotes.FileListAdapter) -> <init>
+    boolean onItemLongClick(android.widget.AdapterView,android.view.View,int,long) -> onItemLongClick
+com.landenlabs.all_encrypnotes.DocFileDlg$3$1 -> com.landenlabs.all_encrypnotes.b$6$1:
+    java.lang.String val$filename -> a
+    com.landenlabs.all_encrypnotes.DocFileDlg$3 this$1 -> b
+    void <init>(com.landenlabs.all_encrypnotes.DocFileDlg$3,java.lang.String) -> <init>
+    boolean onMenuItemClick(android.view.MenuItem) -> onMenuItemClick
+com.landenlabs.all_encrypnotes.DocFileDlg$4 -> com.landenlabs.all_encrypnotes.b$7:
+    com.landenlabs.all_encrypnotes.EncrypPrefs val$prefs -> a
+    com.landenlabs.all_encrypnotes.FileListAdapter val$fileListAdapter -> b
+    android.widget.EditText val$docText -> c
+    com.landenlabs.all_encrypnotes.SendMsg val$sendMsg -> d
+    android.app.AlertDialog val$alert -> e
+    com.landenlabs.all_encrypnotes.DocFileDlg this$0 -> f
+    void <init>(com.landenlabs.all_encrypnotes.DocFileDlg,com.landenlabs.all_encrypnotes.EncrypPrefs,com.landenlabs.all_encrypnotes.FileListAdapter,android.widget.EditText,com.landenlabs.all_encrypnotes.SendMsg,android.app.AlertDialog) -> <init>
+    void onItemClick(android.widget.AdapterView,android.view.View,int,long) -> onItemClick
+com.landenlabs.all_encrypnotes.DocFileDlg$5 -> com.landenlabs.all_encrypnotes.b$8:
+    com.landenlabs.all_encrypnotes.DocFileDlg this$0 -> a
+    void <init>(com.landenlabs.all_encrypnotes.DocFileDlg) -> <init>
+    void onFocusChange(android.view.View,boolean) -> onFocusChange
+com.landenlabs.all_encrypnotes.DocFileDlg$6 -> com.landenlabs.all_encrypnotes.b$9:
+    android.widget.EditText val$filenameETxt -> a
+    java.lang.String val$fname -> b
+    com.landenlabs.all_encrypnotes.DocFileDlg this$0 -> c
+    void <init>(com.landenlabs.all_encrypnotes.DocFileDlg,android.widget.EditText,java.lang.String) -> <init>
+    void onClick(android.view.View) -> onClick
+com.landenlabs.all_encrypnotes.DocFileDlg$6$1 -> com.landenlabs.all_encrypnotes.b$9$1:
+    com.landenlabs.all_encrypnotes.DocFileDlg$6 this$1 -> a
+    void <init>(com.landenlabs.all_encrypnotes.DocFileDlg$6) -> <init>
+    void onChosenDir(java.lang.String) -> a
+com.landenlabs.all_encrypnotes.DocFileDlg$7 -> com.landenlabs.all_encrypnotes.b$10:
+    android.app.Dialog val$dlg -> a
+    android.widget.EditText val$filenameETxt -> b
+    android.widget.EditText val$docText -> c
+    com.landenlabs.all_encrypnotes.SendMsg val$sendMsg -> d
+    com.landenlabs.all_encrypnotes.DocFileDlg this$0 -> e
+    void <init>(com.landenlabs.all_encrypnotes.DocFileDlg,android.app.Dialog,android.widget.EditText,android.widget.EditText,com.landenlabs.all_encrypnotes.SendMsg) -> <init>
+    void onClick(android.view.View) -> onClick
+com.landenlabs.all_encrypnotes.DocFileDlg$8 -> com.landenlabs.all_encrypnotes.b$11:
+    android.app.Dialog val$dlg -> a
+    com.landenlabs.all_encrypnotes.DocFileDlg this$0 -> b
+    void <init>(com.landenlabs.all_encrypnotes.DocFileDlg,android.app.Dialog) -> <init>
+    void onClick(android.view.View) -> onClick
+com.landenlabs.all_encrypnotes.DocFileDlg$9 -> com.landenlabs.all_encrypnotes.b$12:
+    android.widget.EditText val$filenameETxt -> a
+    com.landenlabs.all_encrypnotes.DocFileDlg this$0 -> b
+    void <init>(com.landenlabs.all_encrypnotes.DocFileDlg,android.widget.EditText) -> <init>
+    void afterTextChanged(android.text.Editable) -> afterTextChanged
+    void beforeTextChanged(java.lang.CharSequence,int,int,int) -> beforeTextChanged
+    void onTextChanged(java.lang.CharSequence,int,int,int) -> onTextChanged
+com.landenlabs.all_encrypnotes.EncrypNotes -> com.landenlabs.all_encrypnotes.EncrypNotes:
+    com.landenlabs.all_encrypnotes.EncrypPrefs m_prefs -> a
+    com.landenlabs.all_encrypnotes.DocFileDlg m_docFileDialog -> b
+    com.landenlabs.all_encrypnotes.UiSplashScreen m_splashScreen -> c
+    com.landenlabs.all_encrypnotes.ui.HomeWatcher m_homeWatcher -> d
+    float m_mainTextSize -> e
+    android.view.View m_titleBar -> f
+    android.widget.ScrollView m_mainScroll -> g
+    android.widget.EditText m_mainText -> h
+    android.view.MenuItem m_menuParanoid -> i
+    android.view.MenuItem m_menuGlobalPwd -> j
+    android.view.MenuItem m_menuInvertBg -> k
+    android.os.Handler m_handler -> l
+    com.landenlabs.all_encrypnotes.EncrypNotes$SendLoadDoneMsg mSendLoadDoneMsg -> m
+    com.landenlabs.all_encrypnotes.EncrypNotes$SendSaveDoneMsg mSendSaveDoneMsg -> n
+    int m_startDepthCnt -> o
+    void <init>() -> <init>
+    void onCreate(android.os.Bundle) -> onCreate
+    boolean onCreateOptionsMenu(android.view.Menu) -> onCreateOptionsMenu
+    boolean onOptionsItemSelected(android.view.MenuItem) -> onOptionsItemSelected
+    void onStart() -> onStart
+    void onStop() -> onStop
+    void onPause() -> onPause
+    void onResume() -> onResume
+    void onSaveInstanceState(android.os.Bundle) -> onSaveInstanceState
+    void onRestoreInstanceState(android.os.Bundle) -> onRestoreInstanceState
+    void onBackPressed() -> onBackPressed
+    void onClick(android.app.DialogFragment,int) -> a
+    void onStopTrackingTouch(android.widget.SeekBar) -> onStopTrackingTouch
+    void onStartTrackingTouch(android.widget.SeekBar) -> onStartTrackingTouch
+    void onProgressChanged(android.widget.SeekBar,int,boolean) -> onProgressChanged
+    void setupUI() -> a
+    boolean loadPrefs() -> b
+    void updateBg() -> c
+    void updateTextSize() -> d
+    void updateMenu() -> e
+    void ensureDocDir() -> f
+    boolean saveIfNeeded(boolean) -> a
+    void newFile() -> g
+    void loadFile() -> h
+    void saveFileUI(int) -> a
+    void aboutBox() -> i
+    void getGlobalPwdState(android.view.MenuItem) -> a
+    void getGlobalPwdValue() -> j
+    void openFileBrowser() -> k
+    void updateTitle() -> l
+    void access$000(com.landenlabs.all_encrypnotes.EncrypNotes) -> a
+    android.os.Handler access$100(com.landenlabs.all_encrypnotes.EncrypNotes) -> b
+    android.widget.EditText access$200(com.landenlabs.all_encrypnotes.EncrypNotes) -> c
+    com.landenlabs.all_encrypnotes.DocFileDlg access$300(com.landenlabs.all_encrypnotes.EncrypNotes) -> d
+    com.landenlabs.all_encrypnotes.UiSplashScreen access$400(com.landenlabs.all_encrypnotes.EncrypNotes) -> e
+    com.landenlabs.all_encrypnotes.EncrypPrefs access$500(com.landenlabs.all_encrypnotes.EncrypNotes) -> f
+    void access$600(com.landenlabs.all_encrypnotes.EncrypNotes) -> g
+    void <clinit>() -> <clinit>
+com.landenlabs.all_encrypnotes.EncrypNotes$1 -> com.landenlabs.all_encrypnotes.EncrypNotes$1:
+    com.landenlabs.all_encrypnotes.EncrypNotes this$0 -> a
+    void <init>(com.landenlabs.all_encrypnotes.EncrypNotes) -> <init>
+    void handleMessage(android.os.Message) -> handleMessage
+com.landenlabs.all_encrypnotes.EncrypNotes$2 -> com.landenlabs.all_encrypnotes.EncrypNotes$2:
+    com.landenlabs.all_encrypnotes.EncrypNotes this$0 -> a
+    void <init>(com.landenlabs.all_encrypnotes.EncrypNotes) -> <init>
+    void afterTextChanged(android.text.Editable) -> afterTextChanged
+    void beforeTextChanged(java.lang.CharSequence,int,int,int) -> beforeTextChanged
+    void onTextChanged(java.lang.CharSequence,int,int,int) -> onTextChanged
+com.landenlabs.all_encrypnotes.EncrypNotes$3 -> com.landenlabs.all_encrypnotes.EncrypNotes$3:
+    com.landenlabs.all_encrypnotes.EncrypNotes this$0 -> a
+    void <init>(com.landenlabs.all_encrypnotes.EncrypNotes) -> <init>
+    boolean onTouch(android.view.View,android.view.MotionEvent) -> onTouch
+com.landenlabs.all_encrypnotes.EncrypNotes$4 -> com.landenlabs.all_encrypnotes.EncrypNotes$4:
+    com.landenlabs.all_encrypnotes.EncrypNotes this$0 -> a
+    void <init>(com.landenlabs.all_encrypnotes.EncrypNotes) -> <init>
+    void onClick(android.view.View) -> onClick
+com.landenlabs.all_encrypnotes.EncrypNotes$6 -> com.landenlabs.all_encrypnotes.EncrypNotes$5:
+    android.view.MenuItem val$item -> a
+    android.app.Dialog val$dlg -> b
+    com.landenlabs.all_encrypnotes.EncrypNotes this$0 -> c
+    void <init>(com.landenlabs.all_encrypnotes.EncrypNotes,android.view.MenuItem,android.app.Dialog) -> <init>
+    void onClick(android.view.View) -> onClick
+com.landenlabs.all_encrypnotes.EncrypNotes$7 -> com.landenlabs.all_encrypnotes.EncrypNotes$6:
+    android.view.MenuItem val$item -> a
+    android.app.Dialog val$dlg -> b
+    com.landenlabs.all_encrypnotes.EncrypNotes this$0 -> c
+    void <init>(com.landenlabs.all_encrypnotes.EncrypNotes,android.view.MenuItem,android.app.Dialog) -> <init>
+    void onClick(android.view.View) -> onClick
+com.landenlabs.all_encrypnotes.EncrypNotes$8 -> com.landenlabs.all_encrypnotes.EncrypNotes$7:
+    com.landenlabs.all_encrypnotes.UiPasswordManager val$managePwd -> a
+    android.app.Dialog val$dlg -> b
+    com.landenlabs.all_encrypnotes.EncrypNotes this$0 -> c
+    void <init>(com.landenlabs.all_encrypnotes.EncrypNotes,com.landenlabs.all_encrypnotes.UiPasswordManager,android.app.Dialog) -> <init>
+    void onClick(android.view.View) -> onClick
+com.landenlabs.all_encrypnotes.EncrypNotes$9 -> com.landenlabs.all_encrypnotes.EncrypNotes$8:
+    android.app.Dialog val$dlg -> a
+    com.landenlabs.all_encrypnotes.EncrypNotes this$0 -> b
+    void <init>(com.landenlabs.all_encrypnotes.EncrypNotes,android.app.Dialog) -> <init>
+    void onClick(android.view.View) -> onClick
+com.landenlabs.all_encrypnotes.EncrypNotes$SendLoadDoneMsg -> com.landenlabs.all_encrypnotes.EncrypNotes$a:
+    com.landenlabs.all_encrypnotes.EncrypNotes this$0 -> a
+    void <init>(com.landenlabs.all_encrypnotes.EncrypNotes) -> <init>
+    void send(int) -> a
+com.landenlabs.all_encrypnotes.EncrypNotes$SendSaveDoneMsg -> com.landenlabs.all_encrypnotes.EncrypNotes$b:
+    com.landenlabs.all_encrypnotes.EncrypNotes this$0 -> a
+    void <init>(com.landenlabs.all_encrypnotes.EncrypNotes) -> <init>
+    void send(int) -> a
+com.landenlabs.all_encrypnotes.EncrypPrefs -> com.landenlabs.all_encrypnotes.c:
+    boolean Paranoid -> a
+    boolean Global_pwd_state -> b
+    boolean InvertBg -> c
+    float TextScale -> d
+    boolean ShowPat -> e
+    boolean ShowPwd -> f
+    java.lang.String DefaultPwd -> g
+    java.lang.String Global_pwd_value -> h
+    java.lang.String Global_pwd_hint -> i
+    java.lang.String TAG -> j
+    android.app.Activity m_context -> k
+    void <init>(android.app.Activity) -> <init>
+    boolean load() -> a
+    void save() -> b
+    void <clinit>() -> <clinit>
+com.landenlabs.all_encrypnotes.FileListAdapter -> com.landenlabs.all_encrypnotes.d:
+    java.io.File m_storagePath -> c
+    java.lang.String m_ext -> d
+    java.text.DateFormat m_dateFormat -> e
+    int m_dialogHeight -> f
+    android.widget.AdapterView$OnItemLongClickListener m_onItemLongClickListener -> a
+    android.widget.AdapterView$OnItemClickListener m_onItemClickListener -> b
+    void <init>(android.content.Context,java.io.File,java.lang.String,java.text.DateFormat,int) -> <init>
+    void setOnItemLongClickListener(android.widget.AdapterView$OnItemLongClickListener) -> a
+    void setOnItemClickListener(android.widget.AdapterView$OnItemClickListener) -> a
+    void deleteFile(java.lang.String) -> a
+    void renameFile(java.lang.String,java.lang.String) -> a
+    java.io.File getFile(java.lang.String) -> b
+    java.lang.String getDateStr(java.io.File) -> a
+    java.lang.String getInfoStr(java.io.File) -> b
+    void sort() -> a
+    android.view.View getView(int,android.view.View,android.view.ViewGroup) -> getView
+    void onClick(android.view.View) -> onClick
+    boolean onLongClick(android.view.View) -> onLongClick
+com.landenlabs.all_encrypnotes.R -> com.landenlabs.all_encrypnotes.e:
+com.landenlabs.all_encrypnotes.R$styleable -> com.landenlabs.all_encrypnotes.e$a:
+    int[] passwordGrid -> passwordGrid
+    int passwordGrid_drawOff -> passwordGrid_drawOff
+    int passwordGrid_drawOn -> passwordGrid_drawOn
+    int passwordGrid_pathAlpha -> passwordGrid_pathAlpha
+    int passwordGrid_pathColor -> passwordGrid_pathColor
+    int passwordGrid_pathWidth -> passwordGrid_pathWidth
+    void <clinit>() -> <clinit>
+com.landenlabs.all_encrypnotes.SendMsg -> com.landenlabs.all_encrypnotes.f:
+    void send(int) -> a
+com.landenlabs.all_encrypnotes.SimpleFileDialog -> com.landenlabs.all_encrypnotes.g:
+    java.lang.String DefaultFileName -> a
+    boolean ShowDirs -> b
+    java.lang.String DirPattern -> c
+    boolean ShowFiles -> d
+    java.lang.String FilePattern -> e
+    boolean ShowExt -> f
+    java.text.DateFormat DateFmt -> g
+    int FileOpen -> h
+    int FileSave -> i
+    int FolderChoose -> j
+    int m_selectType -> k
+    java.lang.String m_sdcardDirectory -> l
+    android.content.Context m_context -> m
+    android.widget.TextView m_titleView1 -> n
+    android.widget.TextView m_titleView -> o
+    java.lang.String m_selectedFileName -> p
+    android.widget.EditText m_inputText -> q
+    java.lang.String m_dir -> r
+    java.util.List m_subdirs -> s
+    com.landenlabs.all_encrypnotes.SimpleFileDialog$SimpleFileDialogListener m_simpleFileDialogListener -> t
+    android.widget.ArrayAdapter m_listAdapter -> u
+    int m_dialogHeight -> v
+    void <init>(android.content.Context,java.lang.String,int,com.landenlabs.all_encrypnotes.SimpleFileDialog$SimpleFileDialogListener) -> <init>
+    void choose(java.lang.String) -> a
+    boolean createSubDir(java.lang.String) -> b
+    java.util.List getDirList(java.lang.String) -> c
+    android.app.AlertDialog$Builder createDirectoryChooserDialog(java.lang.String,java.util.List,android.content.DialogInterface$OnClickListener) -> a
+    void updateDirectory() -> a
+    android.widget.ArrayAdapter createListAdapter(java.util.List) -> a
+    java.lang.String access$000(com.landenlabs.all_encrypnotes.SimpleFileDialog) -> a
+    java.lang.String access$002(com.landenlabs.all_encrypnotes.SimpleFileDialog,java.lang.String) -> a
+    java.lang.String access$102(com.landenlabs.all_encrypnotes.SimpleFileDialog,java.lang.String) -> b
+    void access$200(com.landenlabs.all_encrypnotes.SimpleFileDialog) -> b
+    com.landenlabs.all_encrypnotes.SimpleFileDialog$SimpleFileDialogListener access$300(com.landenlabs.all_encrypnotes.SimpleFileDialog) -> c
+    int access$400(com.landenlabs.all_encrypnotes.SimpleFileDialog) -> d
+    int access$500(com.landenlabs.all_encrypnotes.SimpleFileDialog) -> e
+    int access$600(com.landenlabs.all_encrypnotes.SimpleFileDialog) -> f
+    android.widget.EditText access$700(com.landenlabs.all_encrypnotes.SimpleFileDialog) -> g
+    java.lang.String access$100(com.landenlabs.all_encrypnotes.SimpleFileDialog) -> h
+    android.content.Context access$800(com.landenlabs.all_encrypnotes.SimpleFileDialog) -> i
+    boolean access$900(com.landenlabs.all_encrypnotes.SimpleFileDialog,java.lang.String) -> c
+    int access$1000(com.landenlabs.all_encrypnotes.SimpleFileDialog) -> j
+com.landenlabs.all_encrypnotes.SimpleFileDialog$1 -> com.landenlabs.all_encrypnotes.g$1:
+    com.landenlabs.all_encrypnotes.SimpleFileDialog this$0 -> a
+    void <init>(com.landenlabs.all_encrypnotes.SimpleFileDialog) -> <init>
+    void onClick(android.content.DialogInterface,int) -> onClick
+com.landenlabs.all_encrypnotes.SimpleFileDialog$1SimpleFileDialogOnClickListener -> com.landenlabs.all_encrypnotes.g$a:
+    com.landenlabs.all_encrypnotes.SimpleFileDialog this$0 -> a
+    void <init>(com.landenlabs.all_encrypnotes.SimpleFileDialog) -> <init>
+    void onClick(android.content.DialogInterface,int) -> onClick
+com.landenlabs.all_encrypnotes.SimpleFileDialog$2 -> com.landenlabs.all_encrypnotes.g$2:
+    com.landenlabs.all_encrypnotes.SimpleFileDialog this$0 -> a
+    void <init>(com.landenlabs.all_encrypnotes.SimpleFileDialog) -> <init>
+    void onClick(android.view.View) -> onClick
+com.landenlabs.all_encrypnotes.SimpleFileDialog$2$1 -> com.landenlabs.all_encrypnotes.g$2$1:
+    android.widget.EditText val$input -> a
+    com.landenlabs.all_encrypnotes.SimpleFileDialog$2 this$1 -> b
+    void <init>(com.landenlabs.all_encrypnotes.SimpleFileDialog$2,android.widget.EditText) -> <init>
+    void onClick(android.content.DialogInterface,int) -> onClick
+com.landenlabs.all_encrypnotes.SimpleFileDialog$3 -> com.landenlabs.all_encrypnotes.g$3:
+    com.landenlabs.all_encrypnotes.SimpleFileDialog this$0 -> a
+    void <init>(com.landenlabs.all_encrypnotes.SimpleFileDialog,android.content.Context,int,int,java.util.List) -> <init>
+    android.view.View getView(int,android.view.View,android.view.ViewGroup) -> getView
+com.landenlabs.all_encrypnotes.SimpleFileDialog$SimpleFileDialogListener -> com.landenlabs.all_encrypnotes.g$b:
+    void onChosenDir(java.lang.String) -> a
+com.landenlabs.all_encrypnotes.UiPasswordManager -> com.landenlabs.all_encrypnotes.h:
+    com.landenlabs.all_encrypnotes.EncrypPrefs m_prefs -> a
+    boolean m_openMode -> b
+    android.view.ViewGroup m_pwdHolder -> c
+    android.widget.EditText m_pwdText -> d
+    android.view.ViewGroup m_pwdVerifyHolder -> e
+    android.widget.EditText m_pwdVerify -> f
+    com.landenlabs.password.PasswordGrid m_pwdGrid -> g
+    android.widget.CheckBox m_patternCb -> h
+    android.widget.CheckBox m_showCb -> i
+    android.widget.TextView m_pwdHintLB -> j
+    android.widget.EditText m_pwdHintValue -> k
+    void <init>(com.landenlabs.all_encrypnotes.EncrypPrefs,android.app.Dialog,boolean) -> <init>
+    android.widget.EditText getPwdView() -> a
+    boolean isValid() -> b
+    void update() -> c
+    void setHint(java.lang.String) -> a
+    java.lang.String getHint() -> d
+    void showHint() -> e
+    void onFocusChange(android.view.View,boolean) -> onFocusChange
+    boolean onEditorAction(android.widget.TextView,int,android.view.KeyEvent) -> onEditorAction
+    void onCheckedChanged(android.widget.CompoundButton,boolean) -> onCheckedChanged
+    void afterTextChanged(android.text.Editable) -> afterTextChanged
+    void beforeTextChanged(java.lang.CharSequence,int,int,int) -> beforeTextChanged
+    void onTextChanged(java.lang.CharSequence,int,int,int) -> onTextChanged
+    void onClick(android.view.View) -> onClick
+    android.widget.EditText access$000(com.landenlabs.all_encrypnotes.UiPasswordManager) -> a
+com.landenlabs.all_encrypnotes.UiPasswordManager$1 -> com.landenlabs.all_encrypnotes.h$1:
+    com.landenlabs.all_encrypnotes.UiPasswordManager this$0 -> a
+    void <init>(com.landenlabs.all_encrypnotes.UiPasswordManager) -> <init>
+    void onPasswordComplete(java.lang.String) -> a
+    void onPasswordChanged(java.lang.String) -> b
+com.landenlabs.all_encrypnotes.UiSplashScreen -> com.landenlabs.all_encrypnotes.i:
+    android.app.Activity m_context -> a
+    android.widget.ImageView m_splashImg -> b
+    android.widget.TextView m_splashTxt -> c
+    android.animation.AnimatorSet m_splashAnimatSet -> d
+    void <init>(android.app.Activity) -> <init>
+    void show() -> a
+    void hide() -> b
+com.landenlabs.all_encrypnotes.Util -> com.landenlabs.all_encrypnotes.j:
+    void <init>() -> <init>
+    java.sql.Date getCurrentDate() -> a
+    boolean fileExists(java.lang.String) -> a
+    byte[] sha1hash(java.lang.String) -> b
+    byte[] sha1hash(byte[]) -> a
+    byte[] hash(java.lang.String,java.lang.String) -> a
+    byte[] hash(byte[],java.lang.String) -> a
+    byte[] concat(byte[],byte[]) -> a
+com.landenlabs.all_encrypnotes.Util$UncaughtExceptionHandler -> com.landenlabs.all_encrypnotes.j$a:
+    java.text.SimpleDateFormat format -> a
+    java.lang.Thread$UncaughtExceptionHandler originalHandler -> b
+    void <init>() -> <init>
+    void uncaughtException(java.lang.Thread,java.lang.Throwable) -> uncaughtException
+com.landenlabs.all_encrypnotes.ui.DlgClickListener -> com.landenlabs.all_encrypnotes.a.a:
+    void onClick(android.app.DialogFragment,int) -> a
+com.landenlabs.all_encrypnotes.ui.Email -> com.landenlabs.all_encrypnotes.a.b:
+    void send(android.app.Activity,java.lang.String,java.lang.String,java.lang.String) -> a
+com.landenlabs.all_encrypnotes.ui.HomeWatcher -> com.landenlabs.all_encrypnotes.a.c:
+    android.content.Context mContext -> a
+    android.content.IntentFilter mFilter -> b
+    com.landenlabs.all_encrypnotes.ui.HomeWatcher$OnHomePressedListener mListener -> c
+    com.landenlabs.all_encrypnotes.ui.HomeWatcher$InnerRecevier mRecevier -> d
+    void <init>(android.content.Context) -> <init>
+    void startWatch() -> a
+    void stopWatch() -> b
+    com.landenlabs.all_encrypnotes.ui.HomeWatcher$OnHomePressedListener access$000(com.landenlabs.all_encrypnotes.ui.HomeWatcher) -> a
+com.landenlabs.all_encrypnotes.ui.HomeWatcher$InnerRecevier -> com.landenlabs.all_encrypnotes.a.c$a:
+    com.landenlabs.all_encrypnotes.ui.HomeWatcher this$0 -> a
+    void onReceive(android.content.Context,android.content.Intent) -> onReceive
+com.landenlabs.all_encrypnotes.ui.HomeWatcher$OnHomePressedListener -> com.landenlabs.all_encrypnotes.a.c$b:
+    void onHomePressed() -> a
+    void onHomeLongPressed() -> b
+com.landenlabs.all_encrypnotes.ui.LogIt -> com.landenlabs.all_encrypnotes.a.d:
+    boolean s_debugMode -> a
+    void setDebugMode(android.content.pm.ApplicationInfo) -> a
+    java.lang.String getTag(java.lang.Class) -> a
+    void log(java.lang.String,int,java.lang.String) -> a
+    void log(java.lang.Class,int,java.lang.String,java.lang.Throwable) -> a
+    void log(java.lang.String,int,java.lang.String,java.lang.Throwable) -> a
+    void <clinit>() -> <clinit>
+com.landenlabs.all_encrypnotes.ui.RenameDialog -> com.landenlabs.all_encrypnotes.a.e:
+    int m_layoutId -> a
+    int m_msgNum -> b
+    java.lang.String m_fromStr -> c
+    java.lang.String m_toStr -> d
+    android.widget.EditText m_fromET -> e
+    android.widget.EditText m_toET -> f
+    com.landenlabs.all_encrypnotes.ui.DlgClickListener m_clickListener -> g
+    java.lang.Object m_view -> h
+    void <init>() -> <init>
+    com.landenlabs.all_encrypnotes.ui.RenameDialog create(int,int) -> a
+    java.lang.String getFrom() -> a
+    com.landenlabs.all_encrypnotes.ui.RenameDialog setFrom(java.lang.String) -> a
+    java.lang.String getTo() -> b
+    com.landenlabs.all_encrypnotes.ui.RenameDialog setViewer(java.lang.Object) -> a
+    java.lang.Object getViewer() -> c
+    void onAttach(android.app.Activity) -> onAttach
+    void onSaveInstanceState(android.os.Bundle) -> onSaveInstanceState
+    android.app.Dialog onCreateDialog(android.os.Bundle) -> onCreateDialog
+    com.landenlabs.all_encrypnotes.ui.RenameDialog showIt(android.app.FragmentManager,java.lang.String) -> a
+com.landenlabs.all_encrypnotes.ui.RenameDialog$1 -> com.landenlabs.all_encrypnotes.a.e$1:
+    com.landenlabs.all_encrypnotes.ui.RenameDialog this$0 -> a
+    void <init>(com.landenlabs.all_encrypnotes.ui.RenameDialog) -> <init>
+    void onClick(android.view.View) -> onClick
+com.landenlabs.all_encrypnotes.ui.RenameDialog$2 -> com.landenlabs.all_encrypnotes.a.e$2:
+    com.landenlabs.all_encrypnotes.ui.RenameDialog this$0 -> a
+    void <init>(com.landenlabs.all_encrypnotes.ui.RenameDialog) -> <init>
+    void onClick(android.view.View) -> onClick
+com.landenlabs.all_encrypnotes.ui.SliderDialog -> com.landenlabs.all_encrypnotes.a.f:
+    int m_layoutId -> a
+    int m_msgNum -> b
+    android.widget.SeekBar$OnSeekBarChangeListener m_seekListener -> c
+    void <init>() -> <init>
+    com.landenlabs.all_encrypnotes.ui.SliderDialog create(int,int) -> a
+    void onAttach(android.app.Activity) -> onAttach
+    void onSaveInstanceState(android.os.Bundle) -> onSaveInstanceState
+    android.app.Dialog onCreateDialog(android.os.Bundle) -> onCreateDialog
+com.landenlabs.all_encrypnotes.ui.SliderDialog$1 -> com.landenlabs.all_encrypnotes.a.f$1:
+    com.landenlabs.all_encrypnotes.ui.SliderDialog this$0 -> a
+    void <init>(com.landenlabs.all_encrypnotes.ui.SliderDialog) -> <init>
+    void onStopTrackingTouch(android.widget.SeekBar) -> onStopTrackingTouch
+    void onStartTrackingTouch(android.widget.SeekBar) -> onStartTrackingTouch
+    void onProgressChanged(android.widget.SeekBar,int,boolean) -> onProgressChanged
+com.landenlabs.all_encrypnotes.ui.SliderDialog$2 -> com.landenlabs.all_encrypnotes.a.f$2:
+    com.landenlabs.all_encrypnotes.ui.SliderDialog this$0 -> a
+    void <init>(com.landenlabs.all_encrypnotes.ui.SliderDialog) -> <init>
+    void onClick(android.view.View) -> onClick
+com.landenlabs.all_encrypnotes.ui.UiUtil -> com.landenlabs.all_encrypnotes.a.g:
+    android.view.View viewById(android.view.View,int) -> a
+    android.view.View viewById(android.app.Dialog,int) -> a
+    void hideSoftKeyboard(android.view.View) -> a
+    android.content.Intent newEmailIntent(android.content.Context,java.lang.String,java.lang.String,java.lang.String,java.lang.String) -> a
+    void setText(android.widget.EditText,java.lang.String) -> a
+    java.lang.String LoadData(android.app.Activity,java.lang.String) -> a
+    android.content.pm.PackageInfo getPackageInfo(android.app.Activity) -> a
+com.landenlabs.all_encrypnotes.ui.WebDialog -> com.landenlabs.all_encrypnotes.a.h:
+    java.lang.String HTML_CENTER_BOX -> a
+    android.app.AlertDialog show(android.content.Context,java.lang.String[]) -> a
+    void <clinit>() -> <clinit>
+com.landenlabs.all_encrypnotes.ui.WebDialog$1 -> com.landenlabs.all_encrypnotes.a.h$1:
+    android.content.Context val$activity -> a
+    void <init>(android.content.Context) -> <init>
+    boolean shouldOverrideUrlLoading(android.webkit.WebView,java.lang.String) -> shouldOverrideUrlLoading
+com.landenlabs.all_encrypnotes.ui.WebDialog$2 -> com.landenlabs.all_encrypnotes.a.h$2:
+    void <init>() -> <init>
+    void onClick(android.content.DialogInterface,int) -> onClick
+com.landenlabs.all_encrypnotes.ui.YesNoDialog -> com.landenlabs.all_encrypnotes.a.i:
+    java.lang.String m_title -> a
+    java.lang.String m_message -> b
+    int m_msgNum -> c
+    int m_buttons -> d
+    com.landenlabs.all_encrypnotes.ui.DlgClickListener m_clickListener -> e
+    java.lang.Object m_value -> f
+    java.lang.Object m_view -> g
+    void <init>() -> <init>
+    com.landenlabs.all_encrypnotes.ui.YesNoDialog create(java.lang.String,java.lang.String,int,int) -> a
+    void showOk(android.app.Activity,java.lang.String) -> a
+    void showOk(android.app.Activity,java.lang.String,int) -> a
+    com.landenlabs.all_encrypnotes.ui.YesNoDialog showDialog(android.app.Activity,java.lang.String,java.lang.String,int,int) -> a
+    com.landenlabs.all_encrypnotes.ui.YesNoDialog setValue(java.lang.Object) -> a
+    java.lang.Object getValue() -> a
+    com.landenlabs.all_encrypnotes.ui.YesNoDialog setViewer(java.lang.Object) -> b
+    java.lang.Object getViewer() -> b
+    void onAttach(android.app.Activity) -> onAttach
+    void onSaveInstanceState(android.os.Bundle) -> onSaveInstanceState
+    android.app.Dialog onCreateDialog(android.os.Bundle) -> onCreateDialog
+com.landenlabs.all_encrypnotes.ui.YesNoDialog$1 -> com.landenlabs.all_encrypnotes.a.i$1:
+    com.landenlabs.all_encrypnotes.ui.YesNoDialog this$0 -> a
+    void <init>(com.landenlabs.all_encrypnotes.ui.YesNoDialog) -> <init>
+    void onClick(android.content.DialogInterface,int) -> onClick
+com.landenlabs.all_encrypnotes.ui.YesNoDialog$2 -> com.landenlabs.all_encrypnotes.a.i$2:
+    com.landenlabs.all_encrypnotes.ui.YesNoDialog this$0 -> a
+    void <init>(com.landenlabs.all_encrypnotes.ui.YesNoDialog) -> <init>
+    void onClick(android.content.DialogInterface,int) -> onClick
+com.landenlabs.password.PasswordButton -> com.landenlabs.password.PasswordButton:
+    void <init>(android.content.Context) -> <init>
+    void <init>(android.content.Context,android.util.AttributeSet) -> <init>
+    void <init>(android.content.Context,android.util.AttributeSet,int) -> <init>
+    void init(android.content.Context,android.util.AttributeSet) -> a
+com.landenlabs.password.PasswordGrid -> com.landenlabs.password.PasswordGrid:
+    com.landenlabs.password.PasswordGrid$OnPasswordListener mListener -> a
+    java.util.List m_points -> b
+    java.lang.StringBuilder m_password -> c
+    android.util.SparseIntArray m_pathMap -> d
+    java.util.HashMap m_buttonCnt -> e
+    android.view.View m_lastView -> f
+    long m_pressMillis -> g
+    android.graphics.Paint m_paint -> h
+    android.graphics.Path m_path -> i
+    int m_offId -> j
+    int m_onId -> k
+    int m_pathWidth -> l
+    int m_pathAlpha -> m
+    int m_pathColor -> n
+    android.graphics.Bitmap m_onImage -> o
+    boolean onInterceptTouchEvent(android.view.MotionEvent) -> onInterceptTouchEvent
+    boolean onDragEvent(android.view.DragEvent) -> onDragEvent
+    void onDraw(android.graphics.Canvas) -> onDraw
+    void <init>(android.content.Context) -> <init>
+    void <init>(android.content.Context,android.util.AttributeSet) -> <init>
+    void <init>(android.content.Context,android.util.AttributeSet,int) -> <init>
+    void init(android.content.Context,android.util.AttributeSet) -> a
+    java.lang.String getPassword() -> getPassword
+    void setPassword(java.lang.String,boolean) -> a
+    void clear() -> a
+    void deletePoint(int) -> a
+    void addPoint(android.view.View,boolean) -> a
+    void setListener(com.landenlabs.password.PasswordGrid$OnPasswordListener) -> setListener
+    void paintPath(android.graphics.Canvas) -> a
+    java.lang.String getPasswordText(android.view.View) -> a
+    boolean isPasswordView(android.view.View) -> b
+    android.view.View findChildAt(float,float) -> a
+    android.view.View findChildFor(java.lang.String) -> a
+    int rotateColor(int,int) -> a
+    android.graphics.Bitmap rotateImage(android.graphics.Bitmap,float) -> a
+com.landenlabs.password.PasswordGrid$1 -> com.landenlabs.password.PasswordGrid$1:
+    com.landenlabs.password.PasswordGrid this$0 -> a
+    void <init>(com.landenlabs.password.PasswordGrid,android.view.View) -> <init>
+    void onDrawShadow(android.graphics.Canvas) -> onDrawShadow
+com.landenlabs.password.PasswordGrid$OnPasswordListener -> com.landenlabs.password.PasswordGrid$a:
+    void onPasswordComplete(java.lang.String) -> a
+    void onPasswordChanged(java.lang.String) -> b
