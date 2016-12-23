@@ -62,6 +62,8 @@ import com.landenlabs.all_encrypnotes.ui.SliderDialog;
 import com.landenlabs.all_encrypnotes.ui.UiUtil;
 import com.landenlabs.all_encrypnotes.ui.WebDialog;
 import com.landenlabs.all_encrypnotes.ui.YesNoDialog;
+import com.landenlabs.all_encrypnotes.util.AppCrash;
+import com.landenlabs.all_encrypnotes.util.GoogleAnalyticsHelper;
 
 /**
  * Encrypted Notepad based off work from Ivan Voras
@@ -125,7 +127,9 @@ public class EncrypNotes extends Activity implements DlgClickListener, OnSeekBar
     
     private SendLoadDoneMsg mSendLoadDoneMsg = new SendLoadDoneMsg();
     private SendSaveDoneMsg mSendSaveDoneMsg = new SendSaveDoneMsg();
-    
+
+    private GoogleAnalyticsHelper mAnalytics;
+
     // ========================================================================
     // Activity overrides
 
@@ -140,7 +144,10 @@ public class EncrypNotes extends Activity implements DlgClickListener, OnSeekBar
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
 
-        new Util.UncaughtExceptionHandler();
+        boolean DEBUG = (getApplicationInfo().flags & 2) != 0;
+        // new Util.UncaughtExceptionHandler();
+        AppCrash.initalize(getApplication(), DEBUG);
+        mAnalytics = new GoogleAnalyticsHelper(getApplication(), DEBUG);
 
         m_mainText = (EditText) this.findViewById(R.id.main_text);
         m_mainTextSize = m_mainText.getTextSize();
