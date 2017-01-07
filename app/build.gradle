@@ -1,12 +1,7 @@
 apply plugin: 'com.android.application'
 android {
     signingConfigs {
-        config {
-            keyAlias 'all_encrypnotes'
-            keyPassword 'Salem2nh-k'
-            storeFile file('/Users/ldennis/Dropbox/android/keystores/all_encrypnotes.jks')
-            storePassword 'Salem2nh-e'
-        }
+        release
     }
     compileSdkVersion 24
     buildToolsVersion '24.0.3'
@@ -16,7 +11,7 @@ android {
         targetSdkVersion 24
         versionCode 1701
         versionName '1.7.01'
-        signingConfig signingConfigs.config
+        signingConfig signingConfigs.release
     }
 
     buildTypes {
@@ -41,6 +36,14 @@ android {
 
     productFlavors {
     }
+
+    // Load signing config.
+    def props = new Properties()
+    props.load(new FileInputStream(rootProject.file("release.properties")))
+    android.signingConfigs.release.storeFile rootProject.file(props.keyStore)
+    android.signingConfigs.release.storePassword props.keyStorePassword
+    android.signingConfigs.release.keyAlias props.keyAlias
+    android.signingConfigs.release.keyPassword props.keyAliasPassword
 }
 
 dependencies {
