@@ -1,4 +1,4 @@
-# EncrypNotes
+# a LanDen Labs - EncrypNotes
 Android - Encrypted Notepad
 
 Apk v1.6 in app directory and on webpage.

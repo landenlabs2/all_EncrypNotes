@@ -18,7 +18,7 @@ android {
         release {
             minifyEnabled true
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
-            // signingConfig signingConfigs.config
+            signingConfig signingConfigs.release
 
             applicationVariants.all { variant ->
                 appendVersionNameVersionCode(variant, defaultConfig)
